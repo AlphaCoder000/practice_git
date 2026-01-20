@@ -10,7 +10,7 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: Scaffold(body: Center(child: Text('Flutter demo'))),
+      home: Scaffold(body: Center(child: Text('Flutter Theme Change'))),
     );
   }
 }
